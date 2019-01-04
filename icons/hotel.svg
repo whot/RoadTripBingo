@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36mm"
+   height="36mm"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg938"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="hotel.svg">
+  <defs
+     id="defs932">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1658"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="40.685302"
+     inkscape:cy="-328.51819"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata935">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="grid"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="-0.5"
+       x="0.5"
+       height="36"
+       width="36"
+       id="rect852"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="drawing">
+    <g
+       id="g1714"
+       transform="translate(-50,-111)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+         rx="0.30000046"
+         y="124.61116"
+         x="54.389347"
+         height="10.557146"
+         width="27.79603"
+         id="rect882" />
+      <g
+         transform="translate(-1.3363476)"
+         id="g1698">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.34755903;stroke-opacity:1"
+           id="rect1689"
+           width="18.091351"
+           height="5.1955957"
+           x="60.177132"
+           y="121.31177"
+           rx="0.32621518" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="60.737003"
+           y="125.61341"
+           id="text1693"><tspan
+             sodipodi:role="line"
+             id="tspan1691"
+             x="60.737003"
+             y="125.61341"
+             style="font-size:4.93888903px;stroke-width:0.26458332">MOTEL</tspan></text>
+      </g>
+      <rect
+         rx="0.30000046"
+         y="129.48883"
+         x="57.329311"
+         height="5.6794777"
+         width="3.6081386"
+         id="rect1700"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         rx="0.30000046"
+         y="128.75383"
+         x="64.612404"
+         height="2.4054255"
+         width="5.6126599"
+         id="rect1702"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         rx="0.30000046"
+         y="128.68701"
+         x="74.100471"
+         height="2.3386083"
+         width="6.1471992"
+         id="rect1704"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
