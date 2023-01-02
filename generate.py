@@ -81,7 +81,7 @@ if __name__ == "__main__":
     os.makedirs(args.output, exist_ok=True)
 
     files = read_files()
-    for i in range(args.count[0]):
+    for i in range(args.count):
         items = pick_items(files)
         output = replace_in_template(items)
         fname = os.path.join(args.output, f'rtb-{i}.svg')
